@@ -171,7 +171,7 @@ minetest.register_tool("extra_swords:frosty_mace", {
 		max_drop_level=3,
 		groupcaps={
 			cracky={times={[1]=6.00, [2]=3.00, [3]=0.01}, uses=100,
-maxlevel=3},
+maxlevel=1},
 		},
 		damage_groups = {fleshy=10},
 	},
